@@ -1,0 +1,7 @@
+[user]
+	name = Jessie Mao
+	email = jessie.mao49@gmail.com\n
+[color]
+	ui = true
+[alias]
+  lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
